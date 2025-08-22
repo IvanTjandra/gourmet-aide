@@ -1,0 +1,1 @@
+Gourmet Aide is an application designed to help everyone to make cooking easier
